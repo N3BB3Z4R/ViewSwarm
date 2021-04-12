@@ -80,7 +80,7 @@ export function setUserList (usersActive) {
     a.setAttribute('href', `https://www.twitch.tv/${nameChannel}`)
     a.setAttribute('target', 'blank_')
     a.style.color = 'white'
-    a.innerHTML=nameChannel
+    a.innerHTML= channel.name
     li.appendChild(a)
   })
 }

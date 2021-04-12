@@ -7,20 +7,25 @@ body {
     text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-#logo img {
+header img {
     width: 200px;
     height: 155px;
     float: left;
 }
 header {
-    background-color:#9147ff;
+    /*background-color:#9147ff;*/
+    background-image: linear-gradient(#9147ff, #10081b);
     margin: 0 auto;
     width: 100%;
     /* position:static; /* (o relative, según tu diseño)*/
     top: 0px;
     text-align: left;
     padding: 1px 0px;
-    height: 180px;
+    height: 160px;
+    font-size: larger;
+}
+header h1 {
+    font: size 80px !important;
 }
 header span {
     font-size: 10px;
@@ -30,19 +35,28 @@ h3 {
     text-align: center;
 }
 
+#textblock {
+    text-align: center;
+}
+
+.navbar {
+    margin: 0;
+}
 nav {
     text-align: center;
     display: block;
     /* margin: 0 auto; */
 }
-
+#list li:hover {
+    background-color: red;
+}
 nav ol {
     width: 50%;
     text-align: center;
 } 
 nav ol li {
     display: inline-block;
-    width:fit-content;
+    width: fit-content;
     height: 30px;
 }
 nav ol li a {
@@ -54,7 +68,7 @@ nav ol li a {
     background-color: #9147ff;
     border-radius: 5px;
 }
-nav ul li a:hover {
+nav ul li:hover {
     color:#ffffff;
     background-color: #44138d;
 }
@@ -63,9 +77,7 @@ nav ul li a:hover {
 .horario {
     text-align: center;
 }
-.container {
-    width: 50%;
-}
+
 
 table {
     border: 2px solid white;
@@ -79,22 +91,19 @@ table tr th {
     min-width: fit-content;
 }
 
+
+.container {
+    width: 50%;
+}
 #bloquetop container {
     /*float: left;*/
-    text-align: center;
     padding: 0px;
 }
-/* #instrucciones * {
-    width: 70%;
-    min-width: 300px;
-    margin: 6px auto;
-} */
-
-container div {
+container {
+    text-align: left;
     float:left;
     margin: 0 auto;
-    max-width: 100%; /* controla el ancho total del container con los players */
-    width: fit-content;
+    width: 100%; /* controla el ancho total del container con los players */   
 }
 
 #twitch-embed {
@@ -150,28 +159,14 @@ container div {
     padding: 8px 4px;
     margin: 2px;
 }
-#list .item a {
+#list a {
     font-weight:bold; 
     color:#44138d; 
     text-decoration:none; 
     outline:0;
 }
-#list .item a:active, #list .item a:hover {
-    color:#9147ff;
-}
-#list .item a img {
-    width:190px;
-    height:120px; 
-    border:5px solid #eee
-}
-#list .item a img:hover {
-    border:5px solid #9147ff;
-}
-#list .item a span {
-    padding:0 5px; 
-    display:block;
-}
-#list .item p {
+
+#list p {
     margin:5px 0 0 0; 
     padding:0 5px;
 }

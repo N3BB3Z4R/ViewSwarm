@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ViewSwarm Tool 0.3.4 - Los Lobos de Twitch</title>
-  <div id="logo"><a href="#" onclick="window.location.reload(true);"><img src="logomin.png"></a></div>
 
   <!-- Load the Twitch embed & jQuery script -->
   <script src="https://embed.twitch.tv/embed/v1.js"></script>
@@ -19,15 +18,22 @@
 <body>
   <header>
     <!-- HEADER CABECERA -->
-    <h1>ViewSwarm 0.3.4</h1><h4>Twitch Community Tool</h4>
-    <span>by NebeGameplays & o666i Squad for Los Lobos de Twitch community</span>
+    <div>
+      <a href="#" onclick="window.location.reload(true);">
+        <img src="logomin.png">
+      </a>
+    </div>
+    <div>
+      <h1>ViewSwarm 0.3.4</h1><h4>Twitch Community Tool</h4>
+      <span>by NebeGameplays & o666i Squad for Los Lobos de Twitch community</span>
+    </div>
     </br>
   </header>
 
   <!-- Instrucciones -->
   <div id="textblock">
   <container class="container">
-      <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#reglas">REGLAS</button>
+      <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#reglas">REGLAS</button>
       <ol id="reglas" class="collapse">
           <li>No Spam en el grupo.</li>
           <li>No pedir follow.</li>
@@ -39,7 +45,7 @@
           <li>Stream de 30 min.</li>
           <p>IMPORTANTE: PERSONA QUE YA SE LE HAYA DADO EL RAID Y SE AGOTE SU TIEMPO DE STREAM DEBERA</br>PERMANECER EN LAS DEMAS RAID, DE LO CONTRARIO SERA EXPULSADO POR FALTA DE COMPROMISO.</p>
       </ol>
-      <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#instrucciones">INSTRUCCIONES</button>
+      <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#instrucciones">INSTRUCCIONES</button>
       <ol id="instrucciones" class="collapse">
           Si no estas loggeado:
           <li>Clicka en SEGUIR en cualquier ventana.</li>
