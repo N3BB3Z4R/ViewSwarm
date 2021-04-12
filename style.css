@@ -82,7 +82,7 @@ table tr th {
 #bloquetop container {
     /*float: left;*/
     text-align: center;
-    padding: 20px;
+    padding: 0px;
 }
 /* #instrucciones * {
     width: 70%;
@@ -132,9 +132,10 @@ container div {
 /* Lista streamers online */
 #list {
     width:100%;
-    margin:10px auto;
-    text-align: left;
-    display: inline-block;
+    margin:0px auto;
+    text-align: center;
+    display:inline-flex;
+    padding: 10px 70px 10px 20px;
 }
 #list ul li {
     width:fit-content; 
