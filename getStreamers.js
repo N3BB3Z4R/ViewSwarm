@@ -76,14 +76,18 @@ export function setUserList (usersActive) {
     let li = document.createElement('li')
     li = addBackagroundActive(usersActive, nameChannel, li)
     ul.appendChild(li)
-    li.innerHTML = nameChannel
+    let a = document.createElement('a')
+    a.setAttribute('href', `https://www.twitch.tv/${nameChannel}`)
+    a.setAttribute('target', 'blank_')
+    a.style.color = 'white'
+    a.innerHTML=nameChannel
+    li.appendChild(a)
   })
 }
 
 function addBackagroundActive(usersActive, nameChannel, li) {
   usersActive.forEach(user => {
     if(user.channel.name === nameChannel) {
-      console.log(1, nameChannel)
       li.style.backgroundColor = 'green'
     }
   })
