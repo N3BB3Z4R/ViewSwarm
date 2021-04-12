@@ -1,0 +1,193 @@
+<html>
+
+<head>
+  <link href="favicon.png" rel="icon" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ViewSwarm Tool 0.3.0 - Los Lobos de Twitch</title>
+  <div id="logo"><a href="#" onclick="window.location.reload(true);"><img src="logomin.png"></a></div>
+
+  <!-- Load the Twitch embed & jQuery script -->
+  <script src="https://embed.twitch.tv/embed/v1.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header>
+    <!-- HEADER CABECERA -->
+    <h1>ViewSwarm 0.0.3</h1><h4>Twitch Community Tool</h4>
+    <span>by NebeGameplays & o666i Squad for Los Lobos de Twitch community</span>
+    </br>
+  </header>
+
+  <!-- Instrucciones -->
+  <div id="textblock">
+  <container class="container">
+      <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#reglas">REGLAS</button>
+      <ol id="reglas" class="collapse">
+          <li>No Spam en el grupo.</li>
+          <li>No pedir follow.</li>
+          <li>La raid se llevara a cabo si el anfitrión llega a un mínimo de 10 espectadores.</li>
+          <li>Los follows solo se darán en el Stream que tenga la RAID!</li>
+          <li>En el grupo solo esta permitido para aquellas personas que no tengan el afiliado. Persona que ya tenga su afiliado no será agregado, salvo que tenga la intención de ayudar.</li>
+          <li>Streamer con afiliado No será anotado en la lista de raid tampoco tiene permitido la primera regla.</li>
+          <li>La lista sera por orden de llegada.</li>
+          <li>Stream de 30 min.</li>
+          <p>IMPORTANTE: PERSONA QUE YA SE LE HAYA DADO EL RAID Y SE AGOTE SU TIEMPO DE STREAM DEBERA</br>PERMANECER EN LAS DEMAS RAID, DE LO CONTRARIO SERA EXPULSADO POR FALTA DE COMPROMISO.</p>
+      </ol>
+  </container>
+  <container class="container">
+      <button type="button" class="btn btn-success" data-toggle="collapse" data-target="#instrucciones">INSTRUCCIONES</button>
+      <ol id="instrucciones" class="collapse">
+          Si no estas loggeado:
+          <li>Clicka en SEGUIR en cualquier ventana.</li>
+          <li>Realiza el LogIn con tu cuenta de Twitch.</li>
+          <li>Sigue a todos los compañeros y comenta en sus directos.</li>
+      </ol>
+  </container>
+  </div>
+
+  <!-- Tablas Horarios Streamers -->
+  <container class="horario container">
+      <h3>TABLA CADENA DE RAIDS LATAM</h3>
+      <p>GRUPO 6 MARZO · IMPORTANTE! ID DE TWITCH QUE ESTE BIEN ESCRITO - Admin: Gral_Rodriguez</p> <!-- <a href="https://docs.google.com/spreadsheets/d/1T0AIT1d7JsNsFzbHxxiEK-1ZXHjWkUjXdWVnFFaA1qg/edit#gid=0" target="blank_">EDIT</a> -->
+      <table id="#tabla-latam" class="tableizer-table">
+      <thead><tr class="tableizer-firstrow"><th>Posicion</th><th>Nombre</th><th>España</th><th>Argentina</th><th>Mexico</th><th>Venezuela</th><th>Colombia</th><th>Uruguay</th></tr></thead><tbody>
+      <tr><td>1</td><td>Gral_Rodriguez</td><td>16:00</td><td>12:00</td><td>9:00</td><td>11:00</td><td>10:00</td><td>12:00</td></tr>
+      <tr><td>2</td><td>Tatoel10</td><td>16:30</td><td>12:30</td><td>9:30</td><td>11:30</td><td>10:30</td><td>12:30</td></tr>
+      <tr><td>3</td><td>XL0VECR4FT_</td><td>17:00</td><td>13:00</td><td>10:00</td><td>12:00</td><td>11:00</td><td>13:00</td></tr>
+      <tr><td>4</td><td>Rubenn122</td><td>17:30</td><td>13:30</td><td>10:30</td><td>12:30</td><td>11:30</td><td>13:30</td></tr>
+      <tr><td>5</td><td>Littlerbt69</td><td>18:00</td><td>14:00</td><td>11:00</td><td>13:00</td><td>12:00</td><td>14:00</td></tr>
+      <tr><td>6</td><td>yizoon31</td><td>18:30</td><td>14:30</td><td>11:30</td><td>13:30</td><td>12:30</td><td>14:30</td></tr>
+      <tr><td>7</td><td>fcoracing21</td><td>19:00</td><td>15:00</td><td>12:00</td><td>14:00</td><td>13:00</td><td>15:00</td></tr>
+      <tr><td>8</td><td>Joako85</td><td>19:30</td><td>15:30</td><td>12:30</td><td>14:30</td><td>13:30</td><td>15:30</td></tr>
+      <tr><td>9</td><td>zionsnake</td><td>20:00</td><td>16:00</td><td>13:00</td><td>15:00</td><td>14:00</td><td>16:00</td></tr>
+      <tr><td>10</td><td>Karlytox81</td><td>20:30</td><td>16:30</td><td>13:30</td><td>15:30</td><td>14:30</td><td>16:30</td></tr>
+      <tr><td>11</td><td>sasgdl_</td><td>21:00</td><td>17:00</td><td>14:00</td><td>16:00</td><td>15:00</td><td>17:00</td></tr>
+      <tr><td>12</td><td>adrithekid</td><td>21:30</td><td>17:30</td><td>14:30</td><td>16:30</td><td>15:30</td><td>17:30</td></tr>
+      <tr><td>13</td><td>Charlie_Sos</td><td>22:00</td><td>18:00</td><td>15:00</td><td>17:00</td><td>16:00</td><td>18:00</td></tr>
+      <tr><td>14</td><td>nannoreal</td><td>22:30</td><td>18:30</td><td>15:30</td><td>17:30</td><td>16:30</td><td>18:30</td></tr>
+      <tr><td>15</td><td>NebeGameplays</td><td>23:00</td><td>19:00</td><td>16:00</td><td>18:00</td><td>17:00</td><td>19:00</td></tr>
+      <tr><td>16</td><td>Diommi23_</td><td>23:30</td><td>19:30</td><td>16:30</td><td>18:30</td><td>17:30</td><td>19:30</td></tr>
+      </tbody></table>
+  </container>
+  <container class="horario">
+      <h3>TABLA CADENA DE RAIDS EUROPA</h3>
+      <p>GRUPO 6 MARZO · IMPORTANTE! ID DE TWITCH QUE ESTE BIEN ESCRITO - Admin: ZionSnake</p> <!-- <a href="https://docs.google.com/spreadsheets/d/1T0AIT1d7JsNsFzbHxxiEK-1ZXHjWkUjXdWVnFFaA1qg/edit#gid=0" target="blank_">EDIT</a> -->
+      <table class="tableizer-table">
+      <thead><tr class="tableizer-firstrow"><th>Posicion</th><th>Nombre</th><th>España</th><th>Argentina</th><th>Mexico</th><th>Venezuela</th><th>Colombia</th><th>Uruguay</th></tr></thead><tbody>
+      <tr><td>1</td><td>Gral_Rodriguez</td><td>16:00</td><td>12:00</td><td>9:00</td><td>11:00</td><td>10:00</td><td>12:00</td></tr>
+      <tr><td>2</td><td>Tatoel10</td><td>16:30</td><td>12:30</td><td>9:30</td><td>11:30</td><td>10:30</td><td>12:30</td></tr>
+      <tr><td>3</td><td>XL0VECR4FT_</td><td>17:00</td><td>13:00</td><td>10:00</td><td>12:00</td><td>11:00</td><td>13:00</td></tr>
+      <tr><td>4</td><td>Rubenn122</td><td>17:30</td><td>13:30</td><td>10:30</td><td>12:30</td><td>11:30</td><td>13:30</td></tr>
+      <tr><td>5</td><td>Littlerbt69</td><td>18:00</td><td>14:00</td><td>11:00</td><td>13:00</td><td>12:00</td><td>14:00</td></tr>
+      <tr><td>6</td><td>yizoon31</td><td>18:30</td><td>14:30</td><td>11:30</td><td>13:30</td><td>12:30</td><td>14:30</td></tr>
+      <tr><td>7</td><td>fcoracing21</td><td>19:00</td><td>15:00</td><td>12:00</td><td>14:00</td><td>13:00</td><td>15:00</td></tr>
+      <tr><td>8</td><td>Joako85</td><td>19:30</td><td>15:30</td><td>12:30</td><td>14:30</td><td>13:30</td><td>15:30</td></tr>
+      <tr><td>9</td><td>zionsnake</td><td>20:00</td><td>16:00</td><td>13:00</td><td>15:00</td><td>14:00</td><td>16:00</td></tr>
+      <tr><td>10</td><td>Karlytox81</td><td>20:30</td><td>16:30</td><td>13:30</td><td>15:30</td><td>14:30</td><td>16:30</td></tr>
+      <tr><td>11</td><td>sasgdl_</td><td>21:00</td><td>17:00</td><td>14:00</td><td>16:00</td><td>15:00</td><td>17:00</td></tr>
+      <tr><td>12</td><td>adrithekid</td><td>21:30</td><td>17:30</td><td>14:30</td><td>16:30</td><td>15:30</td><td>17:30</td></tr>
+      <tr><td>13</td><td>Charlie_Sos</td><td>22:00</td><td>18:00</td><td>15:00</td><td>17:00</td><td>16:00</td><td>18:00</td></tr>
+      <tr><td>14</td><td>nannoreal</td><td>22:30</td><td>18:30</td><td>15:30</td><td>17:30</td><td>16:30</td><td>18:30</td></tr>
+      <tr><td>15</td><td>NebeGameplays</td><td>23:00</td><td>19:00</td><td>16:00</td><td>18:00</td><td>17:00</td><td>19:00</td></tr>
+      <tr><td>16</td><td>Diommi23_</td><td>23:30</td><td>19:30</td><td>16:30</td><td>18:30</td><td>17:30</td><td>19:30</td></tr>
+      </tbody></table>
+  </container>
+
+  <!-- MENU TOP -->
+  </br>
+  <nav id="list">
+      <h3>LISTADO DE USUARIOS DE LA COMUNIDAD</h3>
+  </nav>
+  <nav class="navbar navbar-inverse" id="filter-menu">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Filtrado:</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="btnActive active"><a href="#filter-menu" id="btnTodos" class="grupo" href="#">Todos <span id="allTotal"></span></a></li>
+        <li class="btnActive"><a href="#filter-menu" id="btnNoAffiliates" class="grupo" href="#">No Afiliados<span id="noAffiliateTotal"></span></a></li>
+        <li class="btnActive"><a href="#filter-menu" id="btnAffiliates" class="grupo" href="#">Solo Afiliados<span id="affiliateTotal"></span></a></li>
+        <!-- <li><a class="grupo" href="#">Socios</a></li> -->
+        <!-- <li><a class="grupo" href="#">Squad-o666i</a></li> -->
+      </ul>
+    </div>
+  </nav>
+
+  <container>
+    <!-- LISTADOS DE PLAYERS EN STREAMING -->
+    <hr size="3px" width="100%" color="white">
+    <h3>ADMINS</h3>
+
+    <!-- SCRIPT DE CRISTIAN -->
+    <hr size="3px" width="100%" color="white">
+    <h3>MIEMBROS COMUNIDAD</h3>
+    <div id="twitch-embed"></div> <!-- PINTA EMBED EN WEB -->
+    <script type="module">
+      import { getStreamers, setUserList } from "./getStreamers.js";
+      let filter = ""
+
+      getStreamers(filter).then(data => {
+        setUserList(data)
+        addTotalStreams('allTotal', data.length)
+      })
+
+      setInterval(() => {
+        console.log("getting streamers (15min)..");
+        getStreamers(filter).then(data => {
+          addTotalStreams('allTotal', data.length)
+        })
+      }, 900000); // 900000 cada 15 mins refresh
+
+      document.querySelector('#btnAffiliates').addEventListener('click', () => {
+        filter = "affiliate"
+        getStreamers(filter).then(data => {
+          addTotalStreams('affiliateTotal', data.length)
+        })
+      } )
+      document.querySelector('#btnTodos').addEventListener('click', () => {
+        filter = ''
+        getStreamers(filter).then(data => {
+          addTotalStreams('allTotal', data.length)
+        })
+      } )
+      document.querySelector('#btnNoAffiliates').addEventListener('click', () => {
+        filter = 'noAffiliate'
+        getStreamers(filter).then(data => {
+          addTotalStreams('noAffiliateTotal', data.length)
+        })
+      } )
+
+      var btns = document.getElementsByClassName("btnActive");
+
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function() {
+          var current = document.getElementsByClassName("active");
+
+          if (current.length > 0) {
+            current[0].className = current[0].className.replace(" active", "");
+          }
+
+          this.className += " active";
+        });
+      }
+
+      function addTotalStreams (idSelector, total) {
+        document.getElementById(idSelector).innerHTML = ''
+        document.getElementById(idSelector).append(`(${total})`)
+      }
+
+    </script>
+  </container>
+
+  <!-- <script src="test-connection-twich.js"></script> -->
+  <footer><p>Los Lobos de Twitch 2021 © Made with ❤️ by N3BB3Z4R (NebeGameplays) & Redon (eduredon) & Christian (belial-vK) & Gaston (zeKke)</p></footer
+
+</body>
+
+</html>

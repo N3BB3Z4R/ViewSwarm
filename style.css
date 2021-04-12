@@ -1,0 +1,189 @@
+html, body {
+    margin: 0; padding: 0;
+    }
+body {
+    background-color:#10081b;
+    color: white;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#logo img {
+    width: 200px;
+    height: 155px;
+    float: left;
+}
+header {
+    background-color:#9147ff;
+    margin: 0 auto;
+    width: 100%;
+    /* position:static; /* (o relative, según tu diseño)*/
+    top: 0px;
+    text-align: left;
+    padding: 1px 0px;
+    height: 180px;
+}
+header span {
+    font-size: 10px;
+    margin: 0;
+}
+h3 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    display: block;
+    /* margin: 0 auto; */
+}
+
+nav ol {
+    width: 50%;
+    text-align: center;
+} 
+nav ol li {
+    display: inline-block;
+    width:fit-content;
+    height: 30px;
+}
+nav ol li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color:#44138d;
+    font-weight: bold;
+    padding: 8px 20px;
+    background-color: #9147ff;
+    border-radius: 5px;
+}
+nav ul li a:hover {
+    color:#ffffff;
+    background-color: #44138d;
+}
+
+
+.horario {
+    text-align: center;
+}
+.container {
+    width: 50%;
+}
+
+table {
+    border: 2px solid white;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    margin-bottom: 40px;
+}
+table tr th {
+    width: 80px;
+    min-width: fit-content;
+}
+
+#bloquetop container {
+    /*float: left;*/
+    text-align: center;
+    padding: 20px;
+}
+/* #instrucciones * {
+    width: 70%;
+    min-width: 300px;
+    margin: 6px auto;
+} */
+
+container div {
+    float:left;
+    margin: 0 auto;
+    max-width: 100%; /* controla el ancho total del container con los players */
+    width: fit-content;
+}
+
+#twitch-embed {
+    width: 100%;
+    margin: 0 auto;
+}
+#twitch-embed iframe {
+    float: left;
+    width: 50%; /*controla el ancho de cada iframe-player embebido */
+    min-width: 320px;
+}
+
+/* BLOQUE ONLY LIVE VIEWING */
+.hide { display:none; }*/
+
+    /* Optional: The following css just makes sure the twitch video stays responsive */
+    #Channel {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        padding-top: 25px;
+        height: 0;
+      }
+      #Channel object, #twitch iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 320px;
+        height: 250px;
+      }
+
+
+/* Lista streamers online */
+#list {
+    width:100%;
+    margin:10px auto;
+    text-align: left;
+    display: inline-block;
+}
+#list ul li {
+    width:fit-content; 
+    float:left; 
+    text-decoration: none;
+    list-style: none;
+    font-size: small;
+}
+#list li {
+    background-color: rgb(0, 0, 0);
+    border-radius: 6px;
+    padding: 8px 4px;
+    margin: 2px;
+}
+#list .item a {
+    font-weight:bold; 
+    color:#44138d; 
+    text-decoration:none; 
+    outline:0;
+}
+#list .item a:active, #list .item a:hover {
+    color:#9147ff;
+}
+#list .item a img {
+    width:190px;
+    height:120px; 
+    border:5px solid #eee
+}
+#list .item a img:hover {
+    border:5px solid #9147ff;
+}
+#list .item a span {
+    padding:0 5px; 
+    display:block;
+}
+#list .item p {
+    margin:5px 0 0 0; 
+    padding:0 5px;
+}
+.grupo a { /* botones menu */
+    width:fit-content;
+    padding: 6px;
+    background-color: #9147ff;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+footer {
+    height: 150px;
+    margin: 20px auto;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
