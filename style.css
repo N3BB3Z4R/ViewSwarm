@@ -100,11 +100,14 @@ container div {
 #twitch-embed {
     width: 100%;
     margin: 0 auto;
+    margin-bottom: 50px;
 }
 #twitch-embed iframe {
     float: left;
-    width: 50%; /*controla el ancho de cada iframe-player embebido */
+    width: 33%; /*controla el ancho de cada iframe-player embebido */
+    max-width: 50%;
     min-width: 320px;
+    height: 500px;
 }
 
 /* BLOQUE ONLY LIVE VIEWING */
