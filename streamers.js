@@ -1749,7 +1749,7 @@ export const streamers = [{
     },
     {
       "name": "Botafuumeir0",
-      "channel": "Botafuumeir0",
+      "channel": "botafuumeir0",
       "group": "6",
       "raid": "0",
       "admin": "0",
