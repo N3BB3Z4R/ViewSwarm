@@ -98,6 +98,17 @@ export const streamers = [{
       "id-activision": "twch Littlerbt69#9031308"
     },
     {
+      "name": "TheYOKO",
+      "channel": "theyoko_yt",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "twch Littlerbt69#9031308"
+    },
+    {
       "name": "makktub27",
       "channel": "makktub27",
       "group": "2",
