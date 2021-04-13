@@ -791,17 +791,6 @@ export const streamers = [{
       "id-activision": "cristian_granada#8099061"
     },
     {
-      "name": "joako85",
-      "channel": "joako85",
-      "group": "2",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "affiliate",
-      "plataforma": "ps4",
-      "id-activision": ""
-    },
-    {
       "name": "Preison",
       "channel": "prason7",
       "group": "2",
@@ -1871,6 +1860,28 @@ export const streamers = [{
     {
       "name": "Pam_TV",
       "channel": "pam_tv",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "ElFran559",
+      "channel": "elfran559",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "xt_Crys_tx",
+      "channel": "xt_crys_tx",
       "group": "2",
       "raid": "0",
       "admin": "0",
