@@ -715,7 +715,7 @@ export const streamers = [{
     },
     {
       "name": "Kako2351",
-      "channel": "Kako2351",
+      "channel": "kako2351",
       "group": "2",
       "raid": "0",
       "admin": "0",
