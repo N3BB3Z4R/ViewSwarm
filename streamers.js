@@ -29,7 +29,18 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "MaDeInGuLaG#9184907"
+    },
+    {
+      "name": "Adespresa",
+      "channel": "adespresa",
+      "group": "3",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "MaDeInGuLaG#9184907"
     },
     {
       "name": "Marduk",
@@ -40,7 +51,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Marduky#2408056"
     },
     {
       "name": "Gral Rodriguez",
@@ -55,17 +66,17 @@ export const streamers = [{
     },
     {
       "name": "zMaangoo",
-      "channel": "zMaangoo",
+      "channel": "zmaangoo",
       "group": "2",
       "raid": "1",
       "admin": "1",
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Twitch zMaangooツ#1658907"
     },
     {
-      "name": "elpetycabron",
+      "name": "ElPetyCabron",
       "channel": "elpetycabron",
       "group": "2",
       "raid": "1",
@@ -73,7 +84,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "ELPETYCABRON#3798789"
     },
     {
       "name": "LittleRbt69",
@@ -84,7 +95,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "twch Littlerbt69#9031308"
     },
     {
       "name": "makktub27",
@@ -98,7 +109,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "MerkOne",
+      "name": "MerkOneI",
       "channel": "merkonei",
       "group": "2",
       "raid": "1",
@@ -120,8 +131,19 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "XL0VECR4FT_",
-      "channel": "XL0VECR4FT_",
+      "name": "vpPedrosaa",
+      "channel": "vppedrosaa",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "Vppedrosa#8504418"
+    },
+    {
+      "name": "JoaquinFari",
+      "channel": "joaquinfari",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -129,6 +151,50 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "OskarMaao",
+      "channel": "oskarmaao",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Neodgc",
+      "channel": "Neodgc",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "NanoSpeedSoft",
+      "channel": "nanospeedsoft",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "xL0VECR4FT_",
+      "channel": "xlovecraft_",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "xL0V3CR4FT#7932294"
     },
     {
       "name": "Rubenn122",
@@ -205,7 +271,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Karlytox-81#9956418"
     },
     {
       "name": "ToxicMonkeysLive",
@@ -227,11 +293,110 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
+      "id-activision": "sasgdl#5653146"
+    },
+    {
+      "name": "AdriTheKid",
+      "channel": "adrithekid",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
       "id-activision": ""
     },
     {
-      "name": "adrithekid",
-      "channel": "adrithekid",
+      "name": "NicoBarbaLive",
+      "channel": "nicobarbalive",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "GiusePPeBF",
+      "channel": "giuseppebf",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Gumcuba",
+      "channel": "Gumcuba",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "JuanFaraone",
+      "channel": "juanfaraone",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "vmozzi07",
+      "channel": "vmozzi07",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Kisco19",
+      "channel": "kisco19",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "TwitchLucer",
+      "channel": "twitchlucer",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "christellodgames",
+      "channel": "christellodgames",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "BigTatuu",
+      "channel": "bigtatuu",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -296,7 +461,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "ElMacDG",
+      "name": "El_MacDG",
       "channel": "el_macdg",
       "group": "2",
       "raid": "1",
@@ -318,8 +483,30 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "pikarin_tv",
+      "name": "Pikarin_TV",
       "channel": "pikarin_tv",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Maariiaacv",
+      "channel": "maariiaacv",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Reivax2181",
+      "channel": "reivax2181",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -331,6 +518,39 @@ export const streamers = [{
     {
       "name": "themasterofgame0",
       "channel": "themasterofgame0",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "LalitoJoystickhands",
+      "channel": "lalitojoystickhands",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "GatoTTi_10",
+      "channel": "gatotti_10",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "GatoTTi_10#8195532"
+    },
+    {
+      "name": "EmilyLaProPlayeruwu",
+      "channel": "emilylaproplayeruwu",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -406,7 +626,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "puravida20268",
+      "name": "Puravida20268",
       "channel": "puravida20268",
       "group": "2",
       "raid": "1",
@@ -414,7 +634,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Puravida#9124685"
     },
     {
       "name": "pastricia",
@@ -425,7 +645,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Pastricia#5685702"
     },
     {
       "name": "Nano_eldatv",
@@ -516,7 +736,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "mrlolgfx",
+      "name": "MrlolGFX",
       "channel": "mrlolgfx",
       "group": "2",
       "raid": "1",
@@ -546,7 +766,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "cristian_granada#8099061"
     },
     {
       "name": "joako85",
@@ -568,7 +788,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "preison7#2509"
     },
     {
       "name": "spectrum2312",
@@ -579,7 +799,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Spectrum23#4600832"
     },
     {
       "name": "new_itsjona02",
@@ -604,8 +824,30 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "andrewrodriguew",
-      "channel": "andrewrodriguew",
+      "name": "VictorGameCube",
+      "channel": "victorgamecube",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "BlascoVision",
+      "channel": "blascovision",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "oOBoniOo",
+      "channel": "ooBonioo",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -623,7 +865,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Gabo_conejo23#5403596"
     },
     {
       "name": "Simbiotik85",
@@ -634,7 +876,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "SimbiotiK#3153987"
     },
     {
       "name": "Jonels05",
@@ -645,10 +887,10 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Jonels#1597525"
     },
     {
-      "name": "Biza13",
+      "name": "Biza_13",
       "channel": "biza_13",
       "group": "2",
       "raid": "1",
@@ -656,7 +898,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "biza#3944511"
     },
     {
       "name": "Tristanchuc_",
@@ -670,7 +912,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "Mxniiako",
+      "name": "MxniiaKo",
       "channel": "mxniiako",
       "group": "2",
       "raid": "1",
@@ -759,14 +1001,14 @@ export const streamers = [{
     },
     {
       "name": "Kamikazze_Team",
-      "channel": "Kamikazze_Team",
+      "channel": "kamikazze_team",
       "group": "2",
       "raid": "1",
       "admin": "1",
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Kamikazze team#1584969"
     },
     {
       "name": "Xexu",
@@ -777,7 +1019,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Xexu_watchmen#8671264"
     },
     {
       "name": "jimmy07899",
@@ -835,7 +1077,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "Motelwzn",
+      "name": "MOTELWZN",
       "channel": "motelwzn",
       "group": "2",
       "raid": "1",
@@ -865,7 +1107,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Kev_CR10#7211038"
     },
     {
       "name": "nanattosback",
@@ -887,7 +1129,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Yayo Gamer#1531779"
     },
     {
       "name": "Yorcher2020",
@@ -920,7 +1162,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Majete_pk#3722660"
     },
     {
       "name": "twistedbull02",
@@ -945,7 +1187,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "andreu_s_r97",
+      "name": "Andreu_s_r97",
       "channel": "andreu_s_r97",
       "group": "2",
       "raid": "1",
@@ -1002,6 +1244,28 @@ export const streamers = [{
     {
       "name": "babyionya",
       "channel": "babyionya",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "JotaRomez",
+      "channel": "jotaromez",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Mister_Xap",
+      "channel": "mister_xap",
       "group": "2",
       "raid": "1",
       "admin": "1",
@@ -1088,6 +1352,127 @@ export const streamers = [{
       "id-activision": ""
     },
     {
+      "name": "danihuevito5",
+      "channel": "danihuevito5",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "danihuevito5",
+      "channel": "danihuevito5",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "EliaSevillano",
+      "channel": "eliasevillano",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "XpomboX_",
+      "channel": "xpombox_",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Marioo_Rodriguez",
+      "channel": "marioo_rodriguez",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Helmin_",
+      "channel": "helmin_",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "JuanCa_1811",
+      "channel": "juanca_1811",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "ElRaniff",
+      "channel": "elraniff",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "BetoupTV",
+      "channel": "betouptv",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Skaterrios",
+      "channel": "skaterrios",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "NoeJuegos",
+      "channel": "noejuegos",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
       "name": "victikogonzalez",
       "channel": "victikogonzalez",
       "group": "2",
@@ -1165,6 +1550,39 @@ export const streamers = [{
       "id-activision": ""
     },
     {
+      "name": "Cristiangamer229",
+      "channel": "cristiangamer229",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Sebv97",
+      "channel": "sebv97",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "CarlosCardenash",
+      "channel": "carloscardenash",
+      "group": "2",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
       "name": "hitman_35226",
       "channel": "hitman_35226",
       "group": "2",
@@ -1217,7 +1635,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "twitchPneonfire#3839139"
     },
     {
       "name": "vcm97",
@@ -1242,7 +1660,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "andrewrodriguewuy",
+      "name": "Andrew Rodriguewuy",
       "channel": "andrewrodriguewuy",
       "group": "6",
       "raid": "1",
@@ -1250,10 +1668,10 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "Andrewrodriguew#3981546"
     },
     {
-      "name": "nowey2595",
+      "name": "NoWey2595",
       "channel": "nowey2595",
       "group": "6",
       "raid": "1",
@@ -1264,7 +1682,29 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "budigamergirl",
+      "name": "Globaiter",
+      "channel": "globaiter",
+      "group": "6",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "DeividDAVE",
+      "channel": "deividdave",
+      "group": "6",
+      "raid": "1",
+      "admin": "1",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "BudiGamerGirl",
       "channel": "budigamergirl",
       "group": "6",
       "raid": "1",
@@ -1286,7 +1726,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "La_crispa89",
+      "name": "La Crispa89",
       "channel": "La_crispa89",
       "group": "6",
       "raid": "1",
@@ -1294,7 +1734,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "La_Crispa89#6206283"
     },
     {
       "name": "xxylogicxx",
@@ -1305,7 +1745,7 @@ export const streamers = [{
       "showstream": "1",
       "broadcast_type": "",
       "plataforma": "ps4",
-      "id-activision": ""
+      "id-activision": "xXYLOGYCXx#7070037"
     },
     {
       "name": "blascovision",
@@ -1352,7 +1792,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "FakeYuki",
+      "name": "FakeYuuki",
       "channel": "fakeyuukiuwu",
       "group": "6",
       "raid": "1",
@@ -1385,7 +1825,7 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "DocKiller",
+      "name": "DocKilleer",
       "channel": "dockilleer",
       "group": "6",
       "raid": "1",
