@@ -704,7 +704,7 @@ export const streamers = [{
     },
     {
       "name": "JotaSniper92",
-      "channel": "JotaSniper92",
+      "channel": "jotasniper92",
       "group": "2",
       "raid": "0",
       "admin": "0",
@@ -1647,17 +1647,6 @@ export const streamers = [{
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
-    },
-    {
-      "name": "Andrew Rodriguewuy",
-      "channel": "andrewrodriguewuy",
-      "group": "6",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "",
-      "plataforma": "ps4",
-      "id-activision": "Andrewrodriguew#3981546"
     },
     {
       "name": "NoWey2595",
