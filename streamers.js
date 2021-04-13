@@ -824,17 +824,6 @@ export const streamers = [{
       "id-activision": "Spectrum23#4600832"
     },
     {
-      "name": "new_itsjona02",
-      "channel": "new_itsjona02",
-      "group": "2",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "affiliate",
-      "plataforma": "ps4",
-      "id-activision": ""
-    },
-    {
       "name": "Kolombo1988",
       "channel": "kolombo1988",
       "group": "2",
@@ -1385,17 +1374,6 @@ export const streamers = [{
       "id-activision": ""
     },
     {
-      "name": "danihuevito5",
-      "channel": "danihuevito5",
-      "group": "2",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "affiliate",
-      "plataforma": "ps4",
-      "id-activision": ""
-    },
-    {
       "name": "EliaSevillano",
       "channel": "eliasevillano",
       "group": "2",
@@ -1871,6 +1849,17 @@ export const streamers = [{
     {
       "name": "KillerCuba",
       "channel": "killer_cuba",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Jerezano",
+      "channel": "joaquinargudo",
       "group": "2",
       "raid": "0",
       "admin": "0",
