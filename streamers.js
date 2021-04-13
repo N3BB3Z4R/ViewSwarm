@@ -715,7 +715,7 @@ export const streamers = [{
     },
     {
       "name": "Kako2351",
-      "channel": "Kako2351",
+      "channel": "kako2351",
       "group": "2",
       "raid": "0",
       "admin": "0",
@@ -1871,6 +1871,50 @@ export const streamers = [{
     {
       "name": "xt_Crys_tx",
       "channel": "xt_crys_tx",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Alvarito008_",
+      "channel": "alvarito008_",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "xxreblaxx07",
+      "channel": "xxreblaxx07",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "D3AH00N",
+      "channel": "themoon1208",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "daanilpgc",
+      "channel": "daanilpgc",
       "group": "2",
       "raid": "0",
       "admin": "0",
