@@ -1955,5 +1955,104 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "el_papitoescanor",
+      "channel": "el_papitoescanor",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "jorgee225",
+      "channel": "jorgee225",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "efexexe",
+      "channel": "efexexe",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "fesa88",
+      "channel": "fesa88",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "cantimplora",
+      "channel": "cantimplora",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "zandresx15",
+      "channel": "zandresx15",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "marcossye",
+      "channel": "marcossye",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "martin_xviii",
+      "channel": "martin_xviii",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "BetoPalmeros",
+      "channel": "betopalmeros",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
