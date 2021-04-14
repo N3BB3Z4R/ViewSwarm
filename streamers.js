@@ -1944,5 +1944,16 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "d4rkf4c3_",
+      "channel": "d4rkf4c3_",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
