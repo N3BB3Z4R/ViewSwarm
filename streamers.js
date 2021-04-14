@@ -253,7 +253,7 @@ export const streamers = [{
     },
     {
       "name": "Joako85",
-      "channel": "Joako85",
+      "channel": "joako85",
       "group": "2",
       "raid": "0",
       "admin": "0",
@@ -2069,6 +2069,17 @@ export const streamers = [{
     {
       "name": "carlossanjm",
       "channel": "carlossanjm",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "lato_rang",
+      "channel": "lato_rang",
       "group": "6",
       "raid": "0",
       "admin": "0",
