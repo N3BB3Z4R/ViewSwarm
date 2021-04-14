@@ -12,7 +12,9 @@ body {
 header img {
     width: 200px;
     height: 155px;
-    float: left;
+    margin: 0 auto;
+    position:static;
+    right: 200px;
 }
 
 header {
@@ -31,6 +33,10 @@ h1 {
     font-size: 80px;
     font-family:fantasy;
     color: #000000;
+    margin-top:1px;
+}
+h2 {
+    color: rgb(155, 6, 6);
 }
 .header-title {
     text-align: center;
@@ -38,7 +44,8 @@ h1 {
 }
 header span {
     font-size: 10px;
-    margin: 0;
+    margin: 0 auto;
+    display: block;
 }
 */
 h3 {
@@ -50,14 +57,15 @@ h3 {
     display:grid;
     padding: 40px 0 0 20px;
     font-size: 20px;
+    margin: 130px 0 0 0;
 }
 #instrucciones {
     width: 0 auto;
 }
 #reglas {
     font-weight: bold;
-    width: 100%;
-    max-width: 700px;
+    margin: 0 auto;
+    width: 670px;
     text-align: center;
 }
 #reglas li {
