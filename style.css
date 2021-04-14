@@ -24,6 +24,7 @@ header {
     text-align: left;
     padding: 1px 0px;
     height: 160px;
+    display: inline-block;
 }
 
 h1 {
@@ -46,7 +47,22 @@ h3 {
 
 #textblock {
     text-align: center;
-    display: block;
+    display:grid;
+    padding: 40px 0 0 20px;
+    font-size: 20px;
+}
+#instrucciones {
+    width: 0 auto;
+}
+#reglas {
+    font-weight: bold;
+    width: 100%;
+    max-width: 700px;
+    text-align: center;
+}
+#reglas li {
+    text-decoration: none;
+    list-style: none;
 }
 
 .navbar {
