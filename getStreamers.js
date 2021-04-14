@@ -48,7 +48,7 @@ export const getStreamers = (filter) => {
       new Twitch.Embed(`twitch-embed`, {
         width: 640,
         height: 480,
-        muted: "yes",
+        muted: true,
         channel: `${channel.name}`,
         // only needed if your site is also embedded on embed.example.com and othersite.example.com
         parent: ["embed.example.com", "othersite.example.com"],

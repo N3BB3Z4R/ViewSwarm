@@ -1726,17 +1726,6 @@ export const streamers = [{
       "id-activision": "xXYLOGYCXx#7070037"
     },
     {
-      "name": "blascovision",
-      "channel": "blascovision",
-      "group": "6",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "",
-      "plataforma": "ps4",
-      "id-activision": ""
-    },
-    {
       "name": "manuhe1994",
       "channel": "manuhe1994",
       "group": "6",
@@ -1926,6 +1915,28 @@ export const streamers = [{
     {
       "name": "KatsuoSuke",
       "channel": "katsuosuke",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "CodilloWhite",
+      "channel": "codillowhite",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "LucarioGang",
+      "channel": "lucariogang",
       "group": "2",
       "raid": "0",
       "admin": "0",
