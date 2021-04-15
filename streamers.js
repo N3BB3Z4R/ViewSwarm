@@ -2164,5 +2164,16 @@ export const streamers = [{
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "xocas85",
+      "channel": "xocas85",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
