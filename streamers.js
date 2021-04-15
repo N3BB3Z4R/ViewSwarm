@@ -737,7 +737,7 @@ export const streamers = [{
     },
     {
       "name": "Cristian27_eldatv",
-      "channel": "Cristian27_eldatv",
+      "channel": "cristian27_eldatv",
       "group": "2",
       "raid": "0",
       "admin": "0",
@@ -2091,6 +2091,50 @@ export const streamers = [{
     {
       "name": "elmarto41",
       "channel": "elmarto41",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "LorenaAnerol",
+      "channel": "mama_lore",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "bulldower",
+      "channel": "bulldower",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Sakinuni",
+      "channel": "sakinuni",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "pacorc",
+      "channel": "pacorc_",
       "group": "6",
       "raid": "0",
       "admin": "0",
