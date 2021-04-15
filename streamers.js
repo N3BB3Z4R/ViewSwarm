@@ -2142,5 +2142,16 @@ export const streamers = [{
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "eabigon",
+      "channel": "eabigon",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
