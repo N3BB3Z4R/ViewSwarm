@@ -2186,5 +2186,16 @@ export const streamers = [{
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "drag_red80",
+      "channel": "drag_red80",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": "1",
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
