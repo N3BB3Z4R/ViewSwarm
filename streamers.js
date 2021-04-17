@@ -791,17 +791,6 @@ export const streamers = [{
       "id-activision": "cristian_granada#8099061"
     },
     {
-      "name": "Preison",
-      "channel": "prason7",
-      "group": "2",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "affiliate",
-      "plataforma": "ps4",
-      "id-activision": "preison7#2509"
-    },
-    {
       "name": "spectrum2312",
       "channel": "spectrum2312",
       "group": "2",
@@ -1915,17 +1904,6 @@ export const streamers = [{
     {
       "name": "CodilloWhite",
       "channel": "codillowhite",
-      "group": "2",
-      "raid": "0",
-      "admin": "0",
-      "showstream": "1",
-      "broadcast_type": "affiliate",
-      "plataforma": "ps4",
-      "id-activision": ""
-    },
-    {
-      "name": "LucarioGang",
-      "channel": "lucariogang",
       "group": "2",
       "raid": "0",
       "admin": "0",
