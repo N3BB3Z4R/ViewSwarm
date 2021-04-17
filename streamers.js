@@ -4,7 +4,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Nebe#3352072"
@@ -15,7 +15,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -26,7 +26,7 @@ export const streamers = [{
       "group": "3",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "MaDeInGuLaG#9184907"
@@ -37,7 +37,7 @@ export const streamers = [{
       "group": "5",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Marduky#2408056"
@@ -48,7 +48,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -59,7 +59,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Twitch zMaangooツ#1658907"
@@ -70,7 +70,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "ELPETYCABRON#3798789"
@@ -81,7 +81,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "twch Littlerbt69#9031308"
@@ -92,7 +92,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "twch Littlerbt69#9031308"
@@ -103,7 +103,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -114,7 +114,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "1",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -125,7 +125,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -136,7 +136,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Vppedrosa#8504418"
@@ -147,7 +147,7 @@ export const streamers = [{
       "group": "3",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "MaDeInGuLaG#9184907"
@@ -158,7 +158,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -169,7 +169,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -180,7 +180,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -191,7 +191,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -202,7 +202,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "xL0V3CR4FT#7932294"
@@ -213,7 +213,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -224,7 +224,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -235,7 +235,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -246,7 +246,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -257,7 +257,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -268,7 +268,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -279,7 +279,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Karlytox-81#9956418"
@@ -290,7 +290,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -301,7 +301,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "sasgdl#5653146"
@@ -312,7 +312,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -323,7 +323,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -334,7 +334,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -345,7 +345,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -356,7 +356,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -367,7 +367,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -378,7 +378,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -389,7 +389,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -400,7 +400,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -411,7 +411,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -422,7 +422,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -433,7 +433,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -444,7 +444,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -455,7 +455,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -466,7 +466,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -477,7 +477,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -488,7 +488,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -499,7 +499,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -510,7 +510,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -521,7 +521,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -532,7 +532,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -543,7 +543,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -554,7 +554,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "GatoTTi_10#8195532"
@@ -565,7 +565,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -576,7 +576,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -587,7 +587,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -598,7 +598,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -609,7 +609,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -620,7 +620,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -631,7 +631,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -642,7 +642,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Puravida#9124685"
@@ -653,7 +653,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Pastricia#5685702"
@@ -664,7 +664,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -675,7 +675,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -686,7 +686,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -697,7 +697,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -708,7 +708,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -719,7 +719,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -730,7 +730,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -741,7 +741,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -752,7 +752,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -763,7 +763,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -774,7 +774,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -785,7 +785,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "cristian_granada#8099061"
@@ -796,7 +796,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Spectrum23#4600832"
@@ -807,7 +807,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -818,7 +818,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -829,7 +829,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -840,7 +840,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -851,7 +851,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Gabo_conejo23#5403596"
@@ -862,7 +862,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "SimbiotiK#3153987"
@@ -873,7 +873,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Jonels#1597525"
@@ -884,7 +884,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "biza#3944511"
@@ -895,7 +895,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -906,7 +906,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -917,7 +917,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -928,7 +928,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -939,7 +939,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -950,7 +950,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -961,7 +961,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -972,7 +972,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -983,7 +983,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -994,7 +994,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Kamikazze team#1584969"
@@ -1005,7 +1005,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Xexu_watchmen#8671264"
@@ -1016,7 +1016,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1027,7 +1027,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1038,7 +1038,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1049,7 +1049,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1060,7 +1060,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1071,7 +1071,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1082,7 +1082,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1093,7 +1093,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Kev_CR10#7211038"
@@ -1104,7 +1104,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1115,7 +1115,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Yayo Gamer#1531779"
@@ -1126,7 +1126,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1137,7 +1137,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1148,7 +1148,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "Majete_pk#3722660"
@@ -1159,7 +1159,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1170,7 +1170,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1181,7 +1181,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1192,7 +1192,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1203,7 +1203,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1214,7 +1214,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1225,7 +1225,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1236,7 +1236,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1247,7 +1247,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1258,7 +1258,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1269,7 +1269,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1280,7 +1280,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1291,7 +1291,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1302,7 +1302,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1313,7 +1313,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1324,7 +1324,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1335,7 +1335,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1346,7 +1346,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1357,7 +1357,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1368,7 +1368,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1379,7 +1379,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1390,7 +1390,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1401,7 +1401,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1412,7 +1412,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1423,7 +1423,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1434,7 +1434,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1445,7 +1445,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1456,7 +1456,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1467,7 +1467,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1478,7 +1478,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1489,7 +1489,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1500,7 +1500,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1511,7 +1511,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1522,7 +1522,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1533,7 +1533,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1544,7 +1544,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1555,7 +1555,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1566,7 +1566,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1577,7 +1577,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1588,7 +1588,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1599,7 +1599,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": "twitchPneonfire#3839139"
@@ -1610,7 +1610,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1621,7 +1621,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1632,7 +1632,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1643,7 +1643,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1654,7 +1654,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1665,7 +1665,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1676,7 +1676,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1687,7 +1687,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": "La_Crispa89#6206283"
@@ -1698,7 +1698,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": "xXYLOGYCXx#7070037"
@@ -1709,7 +1709,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1720,7 +1720,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1731,7 +1731,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1742,7 +1742,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1753,7 +1753,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1764,7 +1764,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1775,7 +1775,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1786,7 +1786,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1797,7 +1797,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1808,7 +1808,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1819,7 +1819,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1830,7 +1830,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1841,7 +1841,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1852,7 +1852,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1863,7 +1863,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1874,7 +1874,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1885,7 +1885,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1896,7 +1896,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1907,7 +1907,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1918,7 +1918,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1929,7 +1929,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1940,7 +1940,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1951,7 +1951,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1962,7 +1962,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1973,7 +1973,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1984,7 +1984,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -1995,7 +1995,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2006,7 +2006,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2017,7 +2017,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2028,7 +2028,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2039,7 +2039,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2050,7 +2050,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2061,7 +2061,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2072,7 +2072,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2083,7 +2083,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2094,7 +2094,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2105,7 +2105,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2116,7 +2116,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2127,7 +2127,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2138,7 +2138,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2149,7 +2149,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2160,7 +2160,7 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2171,8 +2171,52 @@ export const streamers = [{
       "group": "6",
       "raid": "0",
       "admin": "0",
-      "showstream": "1",
+      "showstream": true,
       "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Jcalzon10",
+      "channel": "jcalzon10",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": false,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Andrew Rodriguewuy",
+      "channel": "andrewrodriguewuy",
+      "group": "6",
+      "raid": "0",
+      "admin": "0",
+      "showstream": false,
+      "broadcast_type": "",
+      "plataforma": "ps4",
+      "id-activision": "Andrewrodriguew#3981546"
+    },
+    {
+      "name": "Preison",
+      "channel": "prason7",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": false,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": "preison7#2509"
+    },
+    {
+      "name": "LucarioGang",
+      "channel": "lucariogang",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": false,
+      "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
     }

@@ -46,6 +46,7 @@
         <li class="">▶▶ PARA QUE CUENTE LAS VIEWS PROCURA DEJAR LA PESTAÑA ABIERTA EN PRIMER PLANO.</li>
         <li class="">💡 SI TIENES PANTALLA FullHD 1080 USA LAS TECLAS CONTRL y - PARA EL CHAT MAS CÓMODO.</li>
         <li class="">💡 LA PAGINA SE REFRESCA SOLA CADA 15Mins</li>
+        <li class="">💡 ESTA ACTIVADO AUTOFILTRADO A 6 STREAMS SIMULTANEOS</li>
         <li class="">⛔️ CIERRA LA PESTAÑA CUANDO HAGAS STREAM!!</li>
         <li class="">⛔️ NO HAGAS ESTO A TRAVÉS DE UNA CONEXIÓN MÓVIL, SOLO CON WIFI O CABLE!!</li>
         <li class="">LA PARTICIPACION EN ESTA WEB ESTA EN UN VACIO LEGAL BAJO RESPONSABILIDAD DE CADA UNO:</br><a href="https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=en_US">Normas de Twitch sobre ViewBotting y F4F</a></li>
@@ -65,8 +66,8 @@
         <a class="navbar-brand" href="#">Filtrado:</a>
       </div>
       <ul class="nav navbar-nav">
-        <li class="btnActive active"><a href="#filter-menu" id="btnTodos" class="grupo" href="#">Todos <span id="allTotal"></span></a></li>
-        <li class="btnActive"><a href="#filter-menu" id="btnNoAffiliates" class="grupo" href="#">No Afiliados<span id="noAffiliateTotal"></span></a></li>
+        <li class="btnActive"><a href="#filter-menu" id="btnTodos" class="grupo" href="#">Todos <span id="allTotal"></span></a></li>
+        <li class="btnActive active"><a href="#filter-menu" id="btnNoAffiliates" class="grupo" href="#">No Afiliados<span id="noAffiliateTotal"></span></a></li>
         <li class="btnActive"><a href="#filter-menu" id="btnAffiliates" class="grupo" href="#">Solo Afiliados<span id="affiliateTotal"></span></a></li>
         <!-- <li><a class="grupo" href="#">Socios</a></li> -->
         <!-- <li><a class="grupo" href="#">Squad-o666i</a></li> -->
@@ -81,17 +82,17 @@
     <div id="twitch-embed"></div> <!-- PINTA EMBED EN WEB -->
     <script type="module">
       import { getStreamers, setUserList } from "./getStreamers.js";
-      let filter = ""
+      let filter = 'noAffiliate'
 
       getStreamers(filter).then(data => {
         setUserList(data)
-        addTotalStreams('allTotal', data.length)
+        addTotalStreams('noAffiliateTotal', data.length)
       })
 
       setInterval(() => {
         console.log("getting streamers (15min)..");
         getStreamers(filter).then(data => {
-          addTotalStreams('allTotal', data.length)
+          addTotalStreams('noAffiliateTotal', data.length)
         })
       }, 900000); // 900000 cada 15 mins refresh
 

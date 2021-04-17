@@ -7,15 +7,18 @@ export const getStreamers = (filter) => {
   let allChannels = [];
 
   streamers.forEach(element => {
-    allChannels.push(
-      fetch(`https://api.twitch.tv/kraken/search/streams?query=${element.channel}`, {
-        headers: {
-          accept: 'application/vnd.twitchtv.v5+json',
-        'client-id': 'b31o4btkqth5bzbvr9ub2ovr79umhh',
-        }
-      })
-      .then(response => response.json())
-      .then(({ streams }) => streams))
+    console.log(element.channel)
+    if (element.showstream){
+      allChannels.push(
+        fetch(`https://api.twitch.tv/kraken/search/streams?query=${element.channel}`, {
+          headers: {
+            accept: 'application/vnd.twitchtv.v5+json',
+          'client-id': 'b31o4btkqth5bzbvr9ub2ovr79umhh',
+          }
+        })
+        .then(response => response.json())
+        .then(({ streams }) => streams))
+    }    
   })
 
   return Promise.all(allChannels).then(streams => {
@@ -45,14 +48,18 @@ export const getStreamers = (filter) => {
     const randomWarzoneLives = shuffleArray(warzoneLives)
 
     randomWarzoneLives.map(({ channel }, index) => {
-      new Twitch.Embed(`twitch-embed`, {
-        width: 640,
-        height: 480,
-        muted: true,
-        channel: `${channel.name}`,
-        // only needed if your site is also embedded on embed.example.com and othersite.example.com
-        parent: ["embed.example.com", "othersite.example.com"],
-      });
+      
+      if(index < 6 ){
+        new Twitch.Embed(`twitch-embed`, {
+          width: 540,
+          height: 380,
+          //muted: true,
+          volume: '0.1',
+          channel: `${channel.name}`,
+          // only needed if your site is also embedded on embed.example.com and othersite.example.com
+          parent: ["embed.example.com", "othersite.example.com"],
+        });
+      }
     })
 
     return warzoneLives
