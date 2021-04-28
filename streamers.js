@@ -2230,5 +2230,16 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "ImBlueFTW",
+      "channel": "imblueftw",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
