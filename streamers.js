@@ -1225,7 +1225,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": true,
+      "showstream": false,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
@@ -2256,6 +2256,17 @@ export const streamers = [{
     {
       "name": "DRbartoli",
       "channel": "drbartoli",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "Luismi_86",
+      "channel": "luismi_86",
       "group": "2",
       "raid": "0",
       "admin": "0",
