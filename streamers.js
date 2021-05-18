@@ -1159,7 +1159,7 @@ export const streamers = [{
       "group": "2",
       "raid": "0",
       "admin": "0",
-      "showstream": true,
+      "showstream": false,
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
