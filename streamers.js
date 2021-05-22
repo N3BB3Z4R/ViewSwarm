@@ -2274,5 +2274,27 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "Sr-Toro94",
+      "channel": "srtoro94",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+        {
+      "name": "emp0trad0r",
+      "channel": "emp0trad0r",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
