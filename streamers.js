@@ -2286,9 +2286,31 @@ export const streamers = [{
       "plataforma": "ps4",
       "id-activision": ""
     },
-        {
+    {
       "name": "emp0trad0r",
       "channel": "emp0trad0r",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "OlaMiguelito",
+      "channel": "olamiguelito",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "kitplay408",
+      "channel": "kitplay408",
       "group": "2",
       "raid": "0",
       "admin": "0",
