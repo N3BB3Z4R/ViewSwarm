@@ -2318,5 +2318,27 @@ export const streamers = [{
       "broadcast_type": "affiliate",
       "plataforma": "ps4",
       "id-activision": ""
+    },
+    {
+      "name": "imCaxo",
+      "channel": "imcaxo",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
+    },
+    {
+      "name": "elNardoJuega",
+      "channel": "elnardojuega",
+      "group": "2",
+      "raid": "0",
+      "admin": "0",
+      "showstream": true,
+      "broadcast_type": "affiliate",
+      "plataforma": "ps4",
+      "id-activision": ""
     }
   ]
